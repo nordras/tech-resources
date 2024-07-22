@@ -1,0 +1,27 @@
+{
+  "name": "simple-engineering-problems",
+  "version": "0.0.1",
+  "description": "Algorithms exercicises",
+  "main": "index.js",
+  "scripts": {
+    "test": "node --test native/tests/"
+  },
+  "engines": {
+    "node": ">=20.11.1"
+  },
+  "type": "module",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/nordras/tech-resources.git"
+  },
+  "keywords": [
+    "Algorithms",
+    "Exercises"
+  ],
+  "author": "Igor Ferreira",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/nordras/tech-resources/issues"
+  },
+  "homepage": "https://github.com/nordras/tech-resources#readme"
+}
